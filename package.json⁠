@@ -1,0 +1,9 @@
+{
+  "name": "jclip-ai",
+  "version": "1.0.0",
+  "description": "JClip AI - Generador de clips automáticos con IA y pasarela de pago PayPal",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
